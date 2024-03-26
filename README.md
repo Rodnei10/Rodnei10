@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BDF719&height=180&section=header&text=Rodnei%20Luiz%20Ferrante&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0AF5AD&height=180&section=header&text=Rodnei%20Luiz%20Ferrante&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Rodnei+Ferrante+;Sou+de+Jaú,+SP;Cursando+Sistema+para+Internet,+Fatec+Jahu+;Bem-vindo!+:D)](https://git.io/typing-svg)
 
@@ -25,4 +25,4 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BDF719&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0AF5AD&height=120&section=footer"/>
